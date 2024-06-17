@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import pickle5 as pickle
+import pickle
 import joblib
 import sklearn
 from sklearn.preprocessing import OneHotEncoder
