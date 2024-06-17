@@ -1,6 +1,6 @@
 flask
 joblib
-pickle
+pickle5
 numpy
 pandas
 scikit-learn==1.5.0
